@@ -4,6 +4,12 @@
 }
 
 .fig {
+    width: 130px;
+    text-align: center;
+}
+
+img {
+    border: 2px solid grey;
     width: 120px;
 }
 
