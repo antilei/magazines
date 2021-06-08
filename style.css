@@ -1,0 +1,16 @@
+.common {
+    width: 700px;
+    margin: auto;
+}
+
+.fig {
+    width: 120px;
+}
+
+td {
+    padding: 10px;
+}
+
+body {
+    font-size: 14px;
+}
