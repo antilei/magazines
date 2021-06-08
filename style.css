@@ -1,11 +1,17 @@
 .common {
-    width: 700px;
+    width: 800px;
     margin: auto;
 }
 
 .fig {
     width: 130px;
     text-align: center;
+}
+
+.cont {}
+
+.lk {
+    width: 120px;
 }
 
 img {
