@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.28)  12 NOV 2021 14:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.28)  12 NOV 2021 14:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1790,6 +1790,11 @@ Package fontspec Info: Font family 'STFangsong(0)' created for font
 (fontspec)             - 'normal' (m/n) with NFSS spec.:
 (fontspec)             <->"STFangsong/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 5298--5298
+[][]\TU/SongtiSCLight(0)/m/n/10 作 者 同 时 提 供 了 歌 曲 的 \TU/TimesNewRoman(0)/m/n/10 mp3 \TU/SongtiSCLight(0)/m/n/10 版 本，|  现 已 上 传 至 雷 绍 武 官 网 和 本 研 究 室 的 官 方 \TU/TimesNewRoman(0)/m/n/10 GitHub \TU/SongtiSCLight(0)/m/n/10 账
+ []
 
 [189] [190] [191] [192] [193] (./collection_300.aux) ) 
 Here is how much of TeX's memory you used:
