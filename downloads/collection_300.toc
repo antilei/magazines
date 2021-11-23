@@ -352,4 +352,9 @@
 \contentsline {section}{338 五律·反雷}{188}{}%
 \contentsline {section}{339 街边井盖}{189}{}%
 \contentsline {section}{340 小改矮坚果作品}{192}{}%
+\contentsline {section}{341 咏雷}{193}{}%
+\contentsline {section}{342 回雷绍武《咏雷·一三七六》}{193}{}%
+\contentsline {section}{343 回雷绍武《咏雷·一三七六》}{193}{}%
+\contentsline {section}{344 雷式假日}{194}{}%
+\contentsline {section}{345 水龙吟·反雷}{195}{}%
 \contentsfinish 
